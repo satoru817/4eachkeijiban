@@ -1,0 +1,164 @@
+.top_logo{
+    width:30%;
+    margin:0em;
+    padding:0em;
+}
+
+.title {margin-left:1em;
+    border-left:4px red solid;
+    background-color: #fbfbfb;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    width:80%;
+    font-size:20px;    
+}
+
+.form{
+    margin:0 0;
+    background-color: #fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius: 10px;
+    width:100%;
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:solid 2px gray;
+}
+.text,textarea,.dropdown{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+}
+
+.text{
+    width:40%;
+}
+
+form div{
+    padding:10px;
+}
+
+
+textarea{
+    width:60%;
+    height:10em;
+}
+
+header{
+    width:100%;
+    height:60px;
+    background-color: black;
+}
+
+header ul{
+    text-align:right;
+    list-style-type: none;
+}
+
+header ul li{
+    float: left;
+    margin:1em;
+    color:white;
+}
+
+main{clear:both;
+   
+}
+
+.maincontainer{
+    background-color:white;
+    margin:0 auto;
+    width:95%;
+    margin-top:0px;
+    
+}
+
+.left{float:left;
+    background-color: white;
+    width:65%;
+    margin-right:5%;
+    
+}
+.left h1{
+    padding:0em;
+    vertical-align: middle;
+    border-left:solid 5px black;
+    border-bottom:solid 2px black;
+    
+}
+
+
+.comment{
+    width:100%;
+    background-color:#fbfbfb;
+    margin:1em 0;
+    text-align:left;
+    padding-top:0em;
+    border:3px #ebebeb solid;
+    border-radius: 10px;
+}
+
+.comment h2{
+    border-bottom:2px #ebebeb solid;
+    text-align: left;
+    padding-left: 1em;
+    font-size:20px;
+
+}
+
+.comment div{
+    margin-left: 1em;
+}
+
+.set{
+    width:22%;
+    display:inline-block;
+    margin-bottom:1em;
+    
+}
+
+.set img{width:100%;
+}
+
+
+
+
+.right{float:left;
+    background-color: white;
+    width:30%;
+    margin-top:0.8em;
+}
+
+.right h2{
+    border-bottom: dotted black 2px;
+    vertical-align: center;
+}
+
+.right ul{
+    list-style-type:none;
+    padding-left:0em;
+    border-left:1em;
+    margin:1em;
+}
+
+.right ul li{
+    line-height: 2.5em;
+}
+
+
+footer{
+    clear:both;
+    height:60px;
+    line-height:60px;
+    text-align: center;
+    width:100%;
+    color:white;
+    background-color: black;
+}
