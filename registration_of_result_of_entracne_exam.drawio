@@ -391,8 +391,8 @@
         <mxCell id="BX8hKnyOyNM51wfS8SdK-86" value="学校タイプと受験区分タイプを結ぶ中間テーブル" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="448" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BX8hKnyOyNM51wfS8SdK-87" value="受験結果タイプテーブル（繰り上げ、合格など）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="-152" width="290" height="30" as="geometry" />
+        <mxCell id="BX8hKnyOyNM51wfS8SdK-87" value="受験結果タイプテーブル（繰り上げ、合格、不合格など）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="-152" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BX8hKnyOyNM51wfS8SdK-88" value="受験区分テーブル（一般、推薦、AOなど）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="800" width="260" height="30" as="geometry" />
